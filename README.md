@@ -18,3 +18,5 @@ This project is a starting point for a Flutter application.
 3. Dokumentasi Hasil
 Cupertino Button dan Loading Bar
 ![alt text](images/Cupertino_Button_dan_Loading_Bar.jpg)
+Floating Action Button (FAB)
+![alt text](images/fab.jpg)

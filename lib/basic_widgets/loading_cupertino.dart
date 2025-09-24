@@ -6,7 +6,8 @@ class LoadingCupertino extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+
+return MaterialApp(
       home: Container(
         margin: const EdgeInsets.only(top: 30),
         color: Colors.white,
