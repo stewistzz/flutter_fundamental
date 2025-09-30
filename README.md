@@ -23,6 +23,12 @@ Cupertino Button dan Loading Bar
 Floating Action Button (FAB)
 ![alt text](images/fab.jpg)
 
-4. Dokumentasi Hasil
+5. Dokumentasi Hasil
 Scaffold Widget
 ![alt text](images/scaffold_widget.jpg)
+
+6. Dokumentasi Hasil
+caffold Widget
+![alt text](images/dialog_widget1.jpg)
+![alt text](images/dialog_widget2.jpg)
+
