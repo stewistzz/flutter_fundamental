@@ -32,3 +32,7 @@ caffold Widget
 ![alt text](images/dialog_widget1.jpg)
 ![alt text](images/dialog_widget2.jpg)
 
+7. Dokumentasi Hasil
+ Input dan Selection Widget
+![alt text](images/input_widget1.jpg)
+![alt text](images/input_widget2.jpg)
