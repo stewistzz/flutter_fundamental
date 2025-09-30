@@ -36,3 +36,9 @@ caffold Widget
  Input dan Selection Widget
 ![alt text](images/input_widget1.jpg)
 ![alt text](images/input_widget2.jpg)
+
+8. Dokumentasi Hasil
+Date Time Picker
+![alt text](images/date_time1.jpg)
+![alt text](images/date_time2.jpg)
+![alt text](images/date_time3.jpg)
